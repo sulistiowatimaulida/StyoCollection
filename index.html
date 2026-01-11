@@ -127,5 +127,11 @@
     
     <script src="products.js"></script>
     <script src="script.js"></script>
+    <script>
+  if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.register('/StyoCollection/sw.js');
+  }
+</script>
+
 </body>
 </html>
