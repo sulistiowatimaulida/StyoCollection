@@ -4,7 +4,7 @@ const db_produk = [
         nama: "Batik Navy", 
         harga: 345000, 
         images: ["img/batik-navy.jpg"], 
-        desc: "Motif batik pada kemeja STYO Collection tersebut merupakan kombinasi antara motif Parang yang legendaris dengan sentuhan ornamen floral/lung-lungan modern. Perpaduan ini menciptakan kesan yang gagah namun tetap luwes.",
+        desc: "Motif batik pada kemeja FaLys Collection tersebut merupakan kombinasi antara motif Parang yang legendaris dengan sentuhan ornamen floral/lung-lungan modern. Perpaduan ini menciptakan kesan yang gagah namun tetap luwes.",
         pemilik: "Design : Sulis"
     },
     { 
